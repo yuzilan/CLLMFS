@@ -14,10 +14,12 @@ Few-shot Named Entity Recognition (NER), the task of identifying named entities 
 
 Our code will be released in the near future.
 
-## Citation
+# Citation
 
-If you use this code for you research, please cite our paper.
+Please cite [our paper](https://arxiv.org/) if you use this code in your own work:
+
+```
 
 ```
 
-```
+
