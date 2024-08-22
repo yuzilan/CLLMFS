@@ -1,6 +1,6 @@
 # CLLMFS
 
-PyTorch implementation for [HeteroTCR](https://github.com/yuzilan/CLLMFS) [[paper]]()
+PyTorch implementation for [CLLMFS](https://github.com/yuzilan/CLLMFS) [[paper]]()
 
 ## Overview
 
