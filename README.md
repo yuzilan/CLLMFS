@@ -1,6 +1,6 @@
 # CLLMFS
 
-PyTorch implementation for [CLLMFS](https://github.com/yuzilan/CLLMFS) [[paper]]()
+PyTorch implementation for [CLLMFS](https://github.com/yuzilan/CLLMFS) [[paper]](https://github.com/yuzilan/CLLMFS/blob/main/CLLMFS.pdf)
 
 ## Overview
 
