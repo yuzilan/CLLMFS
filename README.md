@@ -1,5 +1,9 @@
 # CLLMFS
 
+[![DOI](https://zenodo.org/badge/845989454.svg)](https://zenodo.org/doi/10.5281/zenodo.13363900)
+
+Accepted by [27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE](https://www.ecai2024.eu)
+
 PyTorch implementation for [CLLMFS](https://github.com/yuzilan/CLLMFS) [[paper]](https://github.com/yuzilan/CLLMFS/blob/main/CLLMFS.pdf)
 
 ## Overview
