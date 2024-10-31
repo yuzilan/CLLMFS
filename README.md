@@ -23,7 +23,15 @@ Our code will be released in the near future.
 Please cite [our paper](https://arxiv.org/) if you use this code in your own work:
 
 ```
-
+@inbook{inbook,
+author = {Zhang, Yafeng and Yu, Zilan and Huang, Yuang and Tang, Jing},
+year = {2024},
+month = {10},
+pages = {},
+title = {CLLMFS: A Contrastive Learning Enhanced Large Language Model Framework for Few-Shot Named Entity Recognition},
+isbn = {9781643685489},
+doi = {10.3233/FAIA240714}
+}
 ```
 
 
