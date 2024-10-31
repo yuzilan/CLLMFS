@@ -20,7 +20,7 @@ Our code will be released in the near future.
 
 # Citation
 
-Please cite [our paper](https://arxiv.org/) if you use this code in your own work:
+Please cite [our paper](https://arxiv.org/abs/2408.12834) if you use this code in your own work:
 
 ```
 @inbook{inbook,
@@ -33,5 +33,4 @@ isbn = {9781643685489},
 doi = {10.3233/FAIA240714}
 }
 ```
-
 
